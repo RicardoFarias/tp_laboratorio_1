@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1522865739 source:c:\documents and settings\usuario\escritorio\ricardo farias\cosas\facu\programacion\prog i _ laboratorio i\tp 1 nuevo\funciones.c
+
+1522865739 source:c:\documents and settings\usuario\escritorio\ricardo farias\cosas\facu\programacion\prog i _ laboratorio i\tp 1 nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522865925 c:\documents and settings\usuario\escritorio\ricardo farias\cosas\facu\programacion\prog i _ laboratorio i\tp 1 nuevo\funciones.h
+
+1522865739 source:c:\documents and settings\usuario\escritorio\ricardo farias\cosas\facu\programacion\prog i _ laboratorio i\programacion 2018\tp 1 nuevo\funciones.c
+
+1523389989 source:c:\documents and settings\usuario\escritorio\ricardo farias\cosas\facu\programacion\prog i _ laboratorio i\programacion 2018\tp 1 nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522865925 c:\documents and settings\usuario\escritorio\ricardo farias\cosas\facu\programacion\prog i _ laboratorio i\programacion 2018\tp 1 nuevo\funciones.h
+
+1522865740 source:c:\users\alumno\desktop\tp 1 nuevo\funciones.c
+
+1523391070 source:c:\users\alumno\desktop\tp 1 nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522865926 c:\users\alumno\desktop\tp 1 nuevo\funciones.h
+
