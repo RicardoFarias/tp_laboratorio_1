@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1527883028 source:c:\documents and settings\usuario\escritorio\tp 3 2018\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527882776 c:\documents and settings\usuario\escritorio\tp 3 2018\funciones.h
+
+1527883056 source:c:\documents and settings\usuario\escritorio\tp 3 2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
